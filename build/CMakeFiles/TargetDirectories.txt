@@ -1,0 +1,3 @@
+/home/zhaoqun/Documents/rgbd-slam-tutorial-gx-master/part VII/build/src/CMakeFiles/slam.dir
+/home/zhaoqun/Documents/rgbd-slam-tutorial-gx-master/part VII/build/src/CMakeFiles/kinect_test.dir
+/home/zhaoqun/Documents/rgbd-slam-tutorial-gx-master/part VII/build/src/CMakeFiles/slambase.dir
