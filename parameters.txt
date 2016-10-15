@@ -1,7 +1,6 @@
-# 这是一个参数文件
-# 去你妹的yaml! 我再也不用yaml了！简简单单多好！
 
-# part 4 里定义的参数
+
+
 # 特征类型
 detector=GridFAST
 descriptor=SIFT
